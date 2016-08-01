@@ -1,0 +1,3 @@
+ofxAlphaMaskTexture
+ofxBlur
+ofxFilterLibrary
